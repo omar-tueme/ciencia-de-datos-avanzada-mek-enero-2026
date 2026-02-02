@@ -1,8 +1,8 @@
 # ciencia-de-datos-avanzada-mek-enero-2026
-Proyecto de la materia de Ciencia de Datos Avanzada para la carrera MEK durante el trimestre de enero 2026
-Adriana Ale Huesca - A01022013
-Margarita Ojeda Hernández - A01797688
-Omar Jacobo Tueme Márquez - A00959999
+### Proyecto de la materia de Ciencia de Datos Avanzada para la carrera MEK durante el trimestre de enero 2026
+#### Adriana Ale Huesca - A01022013
+#### Margarita Ojeda Hernández - A01797688
+#### Omar Jacobo Tueme Márquez - A00959999
 
 ## Nombre del proyecto
 AAAAAAAAAAAAAAAAAAAA
