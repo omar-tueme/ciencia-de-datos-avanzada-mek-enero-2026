@@ -5,7 +5,7 @@
 #### Omar Jacobo Tueme Márquez - A00959999
 
 ## Nombre del proyecto
-AAAAAAAAAAAAAAAAAAAA
+Aumento de la capacidad en la infraestructura existente de transporte público en la CDMX 
 
 ## Descripción del problema
 ### ¿Cuál es el problema?
@@ -37,7 +37,7 @@ AAAAAAAAAAAAAAAAAAAA
 #### ¿En dónde / en quién se va a ejecutar la acción?
 AAAAAAAAAAAAAAAAAAAA
 
-#### ¿Qué tan seccido se realizará la acción?
+#### ¿Qué tan seguido se realizará la acción?
 AAAAAAAAAAAAAAAAAAAA
 
 #### ¿Qué canales se usarán para realizar la acción?
@@ -55,7 +55,7 @@ AAAAAAAAAAAAAAAAAAAA
 #### ¿En dónde / en quién se va a ejecutar la acción?
 AAAAAAAAAAAAAAAAAAAA
 
-#### ¿Qué tan seccido se realizará la acción?
+#### ¿Qué tan seguido se realizará la acción?
 AAAAAAAAAAAAAAAAAAAA
 
 #### ¿Qué canales se usarán para realizar la acción?
@@ -73,7 +73,7 @@ AAAAAAAAAAAAAAAAAAAA
 #### ¿En dónde / en quién se va a ejecutar la acción?
 AAAAAAAAAAAAAAAAAAAA
 
-#### ¿Qué tan seccido se realizará la acción?
+#### ¿Qué tan seguido se realizará la acción?
 AAAAAAAAAAAAAAAAAAAA
 
 #### ¿Qué canales se usarán para realizar la acción?
@@ -84,7 +84,7 @@ AAAAAAAAAAAAAAAAAAAA
 
 ## Fuentes de información
 ### Nombre de la fuente de información 1
-AAAAAAAAAAAAAAAAAAAA
+Afluencia diaria de la Red de Transporte de Pasajeros ([Fuente]([url](https://datos.cdmx.gob.mx/dataset/afluencia-diaria-de-la-red-de-transporte-de-pasajeros)))
 
 #### ¿Qué campos contiene?
 AAAAAAAAAAAAAAAAAAAA
