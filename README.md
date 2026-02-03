@@ -5,7 +5,7 @@
 #### Omar Jacobo Tueme Márquez - A00959999
 
 ## Nombre del proyecto
-Aumento de la capacidad en la infraestructura existente de transporte público en la CDMX 
+Aumento de la capacidad del transporte público en la CDMX 
 
 ## Descripción del problema
 ### ¿Cuál es el problema?
@@ -84,7 +84,7 @@ AAAAAAAAAAAAAAAAAAAA
 
 ## Fuentes de información
 ### Nombre de la fuente de información 1
-Afluencia diaria de la Red de Transporte de Pasajeros ([Fuente]([url](https://datos.cdmx.gob.mx/dataset/afluencia-diaria-de-la-red-de-transporte-de-pasajeros)))
+Afluencia diaria de la Red de Transporte de Pasajeros [https://datos.cdmx.gob.mx/dataset/afluencia-diaria-de-la-red-de-transporte-de-pasajeros](url)
 
 #### ¿Qué campos contiene?
 AAAAAAAAAAAAAAAAAAAA
@@ -108,7 +108,7 @@ AAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAA
 
 ### Nombre de la fuente de información 2
-AAAAAAAAAAAAAAAAAAAA
+Afluencia diaria del Metro CDMX [https://datos.cdmx.gob.mx/dataset/afluencia-diaria-del-metro-cdmx](url)
 
 #### ¿Qué campos contiene?
 AAAAAAAAAAAAAAAAAAAA
@@ -131,8 +131,32 @@ AAAAAAAAAAAAAAAAAAAA
 #### Información adcional
 AAAAAAAAAAAAAAAAAAAA
 
-### Nombre de la fuente de información n
+### Nombre de la fuente de información 3
+Afluencia diaria de Metrobús CDMX [https://datos.cdmx.gob.mx/dataset/afluencia-diaria-de-metrobus-cdmx](url)
+
+#### ¿Qué campos contiene?
 AAAAAAAAAAAAAAAAAAAA
+
+#### ¿Cuál es el nivel de granularidad? 
+AAAAAAAAAAAAAAAAAAAA
+
+#### ¿Qué tan seguido se actualiza? 
+AAAAAAAAAAAAAAAAAAAA
+
+#### ¿Tiene identificadores únicos y confiables que se puedan cruzar con fuentes adicionales? 
+AAAAAAAAAAAAAAAAAAAA
+
+#### ¿Quién es la/el dueña/o de la fuente de información? 
+AAAAAAAAAAAAAAAAAAAA
+
+#### ¿Cómo se almacena? 
+AAAAAAAAAAAAAAAAAAAA
+
+#### Información adcional
+AAAAAAAAAAAAAAAAAAAA
+
+### Nombre de la fuente de información 4
+Afluencia diaria Servicio de Transportes Eléctricos [https://datos.cdmx.gob.mx/dataset/afluencia-diaria-servicio-de-transportes-electricos](url)
 
 #### ¿Qué campos contiene?
 AAAAAAAAAAAAAAAAAAAA
