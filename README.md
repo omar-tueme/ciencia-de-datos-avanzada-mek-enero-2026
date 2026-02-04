@@ -5,27 +5,24 @@
 #### Omar Jacobo Tueme Márquez - A00959999
 
 ## Nombre del proyecto
-Aumento de la capacidad del transporte público en la CDMX 
+Manejo de capacidad dinámica del transporte público en la CDMX 
 
 ## Descripción del problema
 ### ¿Cuál es el problema?
-AAAAAAAAAAAAAAAAAAAA
+Diariamente el transporte público en la CDMX mueve a más de 2 millones de usuarios al día. El problema es que hay líneas que se encuentras subutilizadas mientras que otras líneas se encuentran a capacidad o cercanas a capacidad, lo que impacta tanto en la experiencia del usuario tanto en tiempos de espera como en la comodidad del transporte
 
 ### ¿Qué / quién resulta afectado?
-AAAAAAAAAAAAAAAAAAAA
+Los usarios del transporte público en la CDMX
 
 ### ¿Cuántas personas / organizaciones / lugares / etc. son afectadas y cuál es la magnitud de la afectación?
-AAAAAAAAAAAAAAAAAAAA
+Más de 2 millones de usuarios diarios, sin embargo no todos ellos tienen una experiencia negativa
 
 ## Objetivos a alcanzar
 ### Objetivo 1 y restricciones
-AAAAAAAAAAAAAAAAAAAA
+Identificar utilización diaria de diferentes mecanísmos de transporte público en la CDMX
 
 ### Objetivo 2 y restricciones
-AAAAAAAAAAAAAAAAAAAA
-
-### Objetivo n y restricciones
-AAAAAAAAAAAAAAAAAAAA
+Distribuir la capacidad de la red de transporte pública en la CDMX de manera dinámica dependiendo del día de la semana y las rutas
 
 ## Acciones que se tomarán
 ### Acción 1
