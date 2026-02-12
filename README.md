@@ -15,7 +15,7 @@ La capacidad de aprender y recordar información son habilidades cognitivas fund
 Jovenes (10 a 19 años de edad) en México
 
 ### ¿Cuántas personas / organizaciones / lugares / etc. son afectadas y cuál es la magnitud de la afectación?
-Se estima que actualmente en México hay aproximadamente 17.2 millones de mexicanos con edad entre los 10 y 19 años ([Fuente]([url](https://www.inegi.org.mx/contenidos/programas/ccpv/2020/doc/Censo2020_piramide.pdf)))
+Se estima que actualmente en México hay aproximadamente 17.2 millones de mexicanos con edad entre los 10 y 19 años ([Fuente](https://www.inegi.org.mx/contenidos/programas/ccpv/2020/doc/Censo2020_piramide.pdf))
 
 ## Objetivos a alcanzar
 ### Objetivo 1 y restricciones
@@ -49,7 +49,7 @@ AAAAAAAAAAAAAAAAAAAA
 
 ## Fuentes de información
 ### Nombre de la fuente de información 1
-ENSANUT Continua 2024, Cuestionario de salud de adolescentes (10 a 19 años) ([Fuente]([url](https://ensanut.insp.mx/encuestas/ensanutcontinua2024/descargas.php)))
+ENSANUT Continua 2024, Cuestionario de salud de adolescentes (10 a 19 años) ([Fuente](https://ensanut.insp.mx/encuestas/ensanutcontinua2024/descargas.php))
 
 #### ¿Qué campos contiene?
 Varios campos, los que se van a usar en el estudio son los siguientes =
