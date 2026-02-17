@@ -25,7 +25,7 @@ Varios campos, los que se van a usar en el estudio son los siguientes =
 | Drogas | D01A08F | ¿Me podrías decir si has tomado, usado, probado heroína |
 | Drogas | D01A08G | ¿Me podrías decir si has tomado, usado, probado estimulantes tipo anfetamínico |
 | Drogas | D01A08H | ¿Me podrías decir si has tomado, usado, probado otras drogas |
-| Drogas | D01A08H | ¿Me podrías decir si has tomado, usado, probado mariguana sintética |
+| Drogas | D01A08I | ¿Me podrías decir si has tomado, usado, probado mariguana sintética |
 | Enfermedades Crónicas | D02O1A | ¿Algún médico te ha dicho que tienes diabetes o la azúcar alta en la sangre |
 | Enfermedades Crónicas | D02O1B | ¿Algún médico te ha dicho que tienes la presión alta o hipertensión |
 | Enfermedades Crónicas | D02O1C | ¿Algún médico te ha dicho que tienes el colesterol alto |
