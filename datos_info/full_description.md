@@ -7,7 +7,6 @@ Varios campos, los que se van a usar en el estudio son los siguientes =
 | Clasificación | Nombre de variable | Pregunta |
 |---|---|---|
 | Dependiente | D0415 | En comparación con las personas de tu misma edad, ¿tienes dificultad para aprender cosas? |
-| Dependiente | D0416 | En comparación con las personas de tu misma edad, ¿tienes dificultad para recordar cosas? |
 | Identidad | edad | Edad |
 | Identidad | sexo | Sexo |
 | Drogas | D0101 | Actualmente ¿fumas tabaco … |
