@@ -1,6 +1,5 @@
 Clasificación,Nombre de variable,Pregunta,Escala de respuesta
 Dependiente,D0415,"En comparación con las personas de tu misma edad, ¿tienes dificultad para aprender cosas?",
-Dependiente,D0416,"En comparación con las personas de tu misma edad, ¿tienes dificultad para recordar cosas?",
 Identidad,edad,Edad,
 Identidad,sexo,Sexo,
 Drogas,D0101,Actualmente ¿fumas tabaco …,
@@ -52,3 +51,4 @@ Coerción o Violencia,D0309,¿Fuiste presionada(o) o forzada(o) para tener esa p
 Coerción o Violencia,D0801,"En los últimos 12 meses, ¿sufriste algún daño a tu salud por robo, agresión o violencia?",
 
 Coerción o Violencia,D0810,"¿A lo largo de tu vida, alguien te manoseó, tocó o acarició alguna parte de tu cuerpo o tuvo relaciones sexuales contigo cuando eras muy pequeño/a?",
+
