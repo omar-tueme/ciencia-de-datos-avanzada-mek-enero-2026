@@ -21,8 +21,11 @@ Se estima que actualmente en México hay aproximadamente 17.2 millones de mexica
 
 ## Evidencia
 -OMS reconoce que en adolescencia (10–19) factores del entorno como pobreza, abuso y violencia aumentan vulnerabilidad a problemas de salud mental. ([Fuente](https://www.who.int/news-room/fact-sheets/detail/adolescent-mental-health?))
+
 -OMS también enfatiza que la calidad del entorno en el que crecen niños y adolescentes influye en su bienestar y desarrollo (incluyendo habilidades). ([Fuente](https://www.who.int/activities/improving-the-mental-and-brain-health-of-children-and-adolescents?))
--UNICEF plantea que la salud mental influye en resultados académicos, sociales y económicos y resalta el rol de escuelas como espacio clave de apoyo  ([Fuente] (https://www.unicef.org/adolescentmentalhealthhub/media/811/file/Learning%20brief%20on%20mental%20health%20and%20psychosocial%20support%20in%20education.pdf.pdf))
+
+-UNICEF plantea que la salud mental influye en resultados académicos, sociales y económicos y resalta el rol de escuelas como espacio clave de apoyo.
+([Fuente](https://www.unicef.org/adolescentmentalhealthhub/media/811/file/Learning%20brief%20on%20mental%20health%20and%20psychosocial%20support%20in%20education.pdf.pdf))
 
 ## Objetivos a alcanzar
 ### Objetivo 1 y restricciones
