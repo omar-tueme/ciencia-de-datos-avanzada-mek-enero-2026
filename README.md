@@ -5,7 +5,7 @@
 #### Omar Jacobo Tueme Márquez - A00959999
 
 ## Nombre del proyecto
-Predicción de la capacidad de aprender y recordar información utilizando caracteristicas ambientales y conductuales de jovenes (10 - 19 años) en México
+Predicción de la capacidad de aprender utilizando caracteristicas ambientales y conductuales de jovenes (10 - 19 años) en México
 
 ## Descripción del problema
 ### ¿Cuál es el problema?
